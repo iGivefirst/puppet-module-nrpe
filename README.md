@@ -15,6 +15,9 @@ Dependencies
 
   * This module depends on OpenCSW packages
 
+### Gentoo
+  * This module depends on portage module
+
 Usage
 -----
 
